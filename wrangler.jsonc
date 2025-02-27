@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "my-app",
+	"name": "varunm977",
 	"main": "src/index.js",
 	"compatibility_date": "2025-02-24",
 	"observability": {
